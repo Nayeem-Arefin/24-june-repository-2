@@ -1,0 +1,29 @@
+ h1{
+ color: firebrick;
+ }
+.heading1{
+  background-color: lightyellow;  
+}
+ .c_border {
+border: 5px solid darkred;
+ }
+
+CSS code commenting sample 
+#heading1{
+    font-size: x-large;
+}
+.sentence{ /*Code commenting helps us developers to
+ insert alternative lines of code, 
+ or withold display for a while. */
+    font-family: cursive;
+}
+.box{
+width: 30%;
+height: 200px;
+background-color: brown;
+text-align: center;
+rgba (00, 00, 00, 0.30)
+padding
+}
+
+/*    */
